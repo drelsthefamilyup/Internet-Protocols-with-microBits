@@ -1,4 +1,6 @@
 # Add your Python code here. E.g.
+# proposed import
+# from microserial import Microbit
 from microbit import *
 import radio
 
